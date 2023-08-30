@@ -1,3 +1,4 @@
 Hola
-Esto es un archivo Readme
 Este archivo no tiene informacion relevante
+Si lees esto
+estas perdiendo el tiempo
